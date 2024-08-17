@@ -1,0 +1,21 @@
+meta {
+  name: Create Transfer
+  type: http
+  seq: 3
+}
+
+post {
+  url: http://localhost:8080/wallets
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "fullName": "Eliane",
+    "cpfCnpj": "777777277",
+    "email": "eliane@email.com",
+    "password": "123",
+    "walletType": "USER"
+  }
+}
