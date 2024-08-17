@@ -6,6 +6,16 @@ meta {
 
 post {
   url: http://localhost:8080/wallets
-  body: none
+  body: json
   auth: none
+}
+
+body:json {
+  {
+    "fullName": "Eliane",
+    "cpfCnpj": "777777277",
+    "email": "eliane@email.com",
+    "password": "123",
+    "walletType": "USER"
+  }
 }
