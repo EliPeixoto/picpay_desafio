@@ -1,11 +1,18 @@
-## Link para o vídeo completo: 
 
-[Assista ao vídeo](https://www.youtube.com/watch?v=dttXo48oXt4)
+#### Desafio PicPay! [RESOLVIDO]
 
-## Repositório com o código do vídeo:
-[buildrun-desafio-backend-picpay](https://github.com/buildrun-tech/buildrun-desafio-backend-picpay)
 
 > **Desafio:** [PicPay Desafio Backend](https://github.com/PicPay/picpay-desafio-backend)
+
+![Imagem 1](1.jpg)
+
+![Imagem 2](2.jpg)
+
+![Imagem 3](3.jpg)
+
+![Imagem 4](4.jpg)
+
+![Imagem 5](5.jpg)
 
 
 
@@ -70,3 +77,8 @@
 ### Ajuste final:
 
 - [x] Aplicar logging no projeto com SLF4J
+<br><br>
+## Link para o vídeo completo que foi  utilizado para aprender a resolver: 
+[Assista ao vídeo](https://www.youtube.com/watch?v=dttXo48oXt4)
+## Repositório com o código do vídeo:
+[buildrun-desafio-backend-picpay](https://github.com/buildrun-tech/buildrun-desafio-backend-picpay)
